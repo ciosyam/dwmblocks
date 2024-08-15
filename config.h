@@ -2,7 +2,6 @@
 static const Block blocks[] = {
 	/*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
 	/* {"⌨", "sb-kbselect", 0, 30}, */
-	/* {"",	"sb-music",	0,	11}, */
 	/* {"",	"sb-price xmr-btc \"Monero to Bitcoin\" 🔒 25",	9000,	25}, */
 	/* {"",	"sb-price xmr Monero 🔒 24",			9000,	24}, */
 	/* {"",	"sb-price eth Ethereum 🍸 23",			9000,	23}, */
