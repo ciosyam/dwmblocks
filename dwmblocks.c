@@ -121,7 +121,7 @@ void getcmds(int time)
 {
 	const Block* current;
 	for(int i = 0; i < LENGTH(blocks); i++)
-	{
+ {
 		current = blocks + i;
 		if ((current->interval != 0 && time % current->interval == 0) || time == -1){
 			getcmd(current,statusbar[i]);
