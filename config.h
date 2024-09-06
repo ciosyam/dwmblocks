@@ -12,16 +12,15 @@ static const Block blocks[] = {
 	/* {"",	"sb-price btc Bitcoin 💰 21",			9000,	21}, */
 	/*{"",	"sb-torrent",	20,	7},*/
 	/* {"",	"sb-memory",	10,	14}, */
-	{"",	"sb-battery",	5,	3},
 	/*{"",	"sb-cpu",		10,	18},*/
 	/* {"",	"sb-moonphase",	18000,	17}, */
 	/*{"",	"sb-doppler",	0,	13},*/
 	/*{"",	"sb-forecast",	18000,	5},*/
 	/*{"",	"sb-mailbox",	180,	12},*/
-	/*{"",	"sb-nettraf",	1,	16},*/
-	/*{"",	"sb-volume",	0,	10},*/
+	{"",	"sb-battery",	5,	3},
+	{"",	"sb-volume",	1,	16},
+	{"",	"sb-internet",	5,	4},
 	{"",	"sb-clock",	60,	1},
-	/*{"",	"sb-internet",	5,	4},*/
 	/* {"",	"sb-iplocate", 0,	27}, */
 	/*{"",	"sb-help-icon",	0,	15},*/
 };
